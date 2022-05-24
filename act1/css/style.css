@@ -1,0 +1,23 @@
+th{
+    background-color: rgb(4, 77, 2);
+    color: rgb(190, 221, 186);
+}
+
+.filasAlbinas{
+    background-color: rgb(193, 240, 183);
+}
+
+#filaverde{
+    
+    background-color: rgb(158, 247, 162);
+}
+table{
+    border-style: ridge;
+    background-color: aqua;
+}
+
+
+
+.hola{
+    text-align: center;
+}

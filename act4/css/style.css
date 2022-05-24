@@ -1,0 +1,34 @@
+body {
+    font-weight: bolder;
+    background-image: url(../img/índice.jpg);
+    background-repeat: no-repeat;
+    padding: 190px;
+    background-position: center;
+    background-size: 1000px;
+
+}
+
+table {
+  border-style: ridge;
+    margin: 0px;
+    padding: 0px;
+    width:100%;
+    height: 100%;
+    position: relative;
+    background-color: white;
+}
+
+th,
+td {
+    border-style: ridge;
+    padding: 5px;
+}
+
+.celda span {
+    text-align: center;
+}
+
+.centrat {
+    text-align: center;
+    background-color: yellow;
+}

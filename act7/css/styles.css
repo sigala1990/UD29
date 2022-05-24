@@ -1,0 +1,177 @@
+body {
+    background-image: url(../img/ac.jpg);
+}
+
+div {
+    text-align: center;
+    /* border-style: solid; */
+    margin: 10px;
+}
+
+.col1 {
+    float: left;
+}
+
+.container {
+    width: 200px;
+    height: 200px;
+
+}
+
+#a {
+
+    background-image: url(../img/back_mantel.jpg);
+    background-repeat: repeat;
+}
+
+#imgB {
+
+    width: 80%;
+    height: 80%;
+    background-image: url(../img/back_mantel.jpg);
+}
+
+#textb {
+    position: absolute;
+    top: 10%;
+
+}
+
+#b {
+    border-style: solid;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+#c {
+    background-image: url(../img/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+
+#imgD {
+
+    background-image: url(../img/back_mantel.jpg);
+    background-size: cover;
+    width: 80%;
+    height: 80%;
+
+}
+
+#textd {
+    position: absolute;
+    top: 10%;
+}
+
+#d {
+    position: relative;
+    background-color: rgb(204, 204, 204);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#imgE {
+    background-image: url(../img/dh.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+#texte {
+    position: absolute;
+    top: 0;
+}
+
+#e {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imgF {
+
+    background-image: url(../img/dh.jpg);
+    background-size: cover;
+    width: 80%;
+    height: 80%;
+}
+
+#textf {
+    position: absolute;
+    top: 10%;
+}
+
+#f {
+    position: relative;
+    background-color: rgb(204, 204, 204);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#imgG {
+
+    background-image: url(../img/dh_2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 50%;
+}
+
+#textg {
+    position: absolute;
+    top: 15%;
+
+}
+
+#g {
+    position: relative;
+    background-color: rgb(204, 204, 204);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imgH {
+
+    background-image: url(../img/dh_3.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 100%;
+}
+
+#texth {
+    position: absolute;
+    top: 0;
+    left: 50%;
+}
+
+#h {
+    position: relative;
+    background-color: rgb(204, 204, 204);
+
+}
+
+#i {
+    background: linear-gradient(90deg, rgb(184, 248, 35)50%, rgb(58, 126, 3));
+}
+
+#j {
+    background: linear-gradient(180deg, rgb(201, 123, 123)30%, rgb(155, 57, 28) 80%, rgb(148, 39, 7)80%, rgb(216, 121, 92)95%);
+}
+
+#k {
+    background: linear-gradient(180deg, rgb(199, 236, 195)30%, rgb(57, 114, 10)70%);
+}
+
+#l {
+    background: radial-gradient(ellipse at top, #32a81400, transparent),
+        radial-gradient(ellipse at bottom, #4e9f0c, transparent);
+}

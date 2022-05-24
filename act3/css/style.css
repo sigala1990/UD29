@@ -1,0 +1,48 @@
+h4 {
+    text-align: center;
+    margin: 0;
+}
+
+table {
+    border-style: ridge;
+    position: relative;
+    width: 100%;
+
+}
+
+
+td {
+    font-weight: bold;
+    border-style: ridge;
+    text-align: center;
+
+}
+
+
+#verde {
+    background-color: greenyellow;
+    text-align: center;
+}
+
+#azul {
+    background-color: cyan;
+    text-align: left;
+}
+
+#rosa {
+
+    background-color: pink;
+}
+
+.rojo {
+    text-align: center;
+    color: red;
+
+
+}
+
+#rosa span {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}

@@ -1,0 +1,11 @@
+#num{
+    list-style-type: decimal;
+}
+
+#letras{
+    list-style-type: lower-latin;
+}
+
+#romanos{
+    list-style-type: upper-roman;
+}
